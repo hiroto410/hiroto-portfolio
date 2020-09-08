@@ -199,7 +199,7 @@ img {
 @media screen and (max-width: 767px) {
   .top__picture {
     padding-top: 120%;
-    background: url(../img/sp/top.png) center center/cover;
+    background: url(../img/SP/top.png) center center/cover;
   }
 }
 
@@ -357,7 +357,7 @@ img {
 
 @media screen and (max-width: 767px) {
   .about {
-    background: url(../img/sp/bg.png) center center/cover;
+    background: url(../img/SP/bg.png) center center/cover;
     padding: 176px 0 52px;
   }
 }
